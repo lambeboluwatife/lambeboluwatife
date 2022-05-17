@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Lambe Boluwatife
 
-I am a Web Developer skilled in HTML, CSS, JavaScript, NodeJS, Bootstrap, MongoDB, Python and Java.
+I am a Web Developer skilled in HTML, CSS, JavaScript, NodeJS, Bootstrap, and MongoDB.
 
 Currently a student of Lagos State University (LASU) studying Business Adminstration.
 
