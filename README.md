@@ -3,8 +3,6 @@ I'm Lambe Boluwatife
 
 I am a Web Developer skilled in HTML, CSS, JavaScript, NodeJS, Bootstrap, and MongoDB.
 
-Currently a student of Lagos State University (LASU) studying Business Adminstration.
-
 My love for video games, and the idea of being able to build applications lured me into programming. I have worked on amazing projects like Geo-Search (a Geo-weather App), Getting Killed and Injured - GKAI (a logical game) amongst others. I'm a former Andela Intern and currently freelancing and working with developers ecosystem.
 
 I attribute my growth as a developer to consistent learning and development and also takes pride and pleasure in teaching and imparting people with my wealth of knowledge.
