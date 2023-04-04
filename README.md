@@ -8,3 +8,5 @@ My love for video games, and the idea of being able to build applications lured 
 I attribute my growth as a developer to consistent learning and development and also takes pride and pleasure in teaching and imparting people with my wealth of knowledge.
 
 When I'm not coding or studying, I spend my leisure time playing games and watching movies and series or songwriting.
+
+<a href="https://app.daily.dev/Danibholie"><img src="https://api.daily.dev/devcards/21c5274b3e2a4b4ab5031ce900cd507a.png?r=5zs" width="400" alt="Boluwatife Lambe's Dev Card"/></a>
