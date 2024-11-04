@@ -1,11 +1,16 @@
 ## Hi, I'm Lambe Boluwatife 👋
-I'm a passionate Web Developer skilled in HTML, CSS, JavaScript, NodeJS, Bootstrap, and MongoDB. My programming journey was sparked by a love for video games and the dream of building impactful applications.
 
-I've developed exciting projects like Geo-Search (a Geo-weather App) and Getting Killed and Injured (GKAI), a logical two-player game based on strategic number guessing. Previously an intern with Andela, I now freelance and actively collaborate in the developer ecosystem, constantly learning and sharing knowledge with others.
+I am a dedicated and versatile software developer with front-end and back-end development expertise. I specialize in the MERN stack (MongoDB, Express, React, and Node.js). With a background in building and maintaining scalable web applications, I bring a balanced approach to software development that prioritizes performance, user experience, and maintainability.
+
+My technical proficiency spans HTML, CSS, JavaScript, React, and backend technologies, enabling me to develop end-to-end solutions for various applications.
+
+In addition to technical skills, I am passionate about continuous learning and contributing to the developer community. A former Andela intern, I now collaborate within the developer ecosystem, offering mentorship and insight to emerging developers. Known for a proactive problem-solving mindset, I am always ready to adapt to new challenges and contribute effectively in both remote and collaborative settings.
 
 More About Me:
-🌱 Growth Through Learning: I credit my growth to a commitment to continuous learning and development. Sharing insights and helping others on their coding journey is something I truly enjoy.
+🌱 Growth Through Learning: I commit my growth to continuous learning and development. Sharing insights and helping others on their coding journey is something I truly enjoy.
 
 🎮 When I'm Not Coding: You’ll probably find me gaming, diving into movies and series, or working on songwriting projects.
+
+My programming journey was sparked by a love for video games and the dream of building impactful applications.
 
 <a href="https://app.daily.dev/danibholie"><img src="https://api.daily.dev/devcards/v2/pfaYnt9P1q03B1r6yp4FS.png?type=default&r=etm" width="356" alt="Boluwatife Lambe's Dev Card"/></a>
