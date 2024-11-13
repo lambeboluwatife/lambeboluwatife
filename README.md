@@ -1,18 +1,20 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Boluwatife Lambe
 ========================================================================================================================================
 
-Web Developer (Fullstack)
+Software Engineer (Fullstack Development)
 -------------------------
 
-I am a dedicated and versatile software developer with expertise in front-end and back-end development. I specialize in the MERN stack (MongoDB, Express, React, and Node.js). With a background in building and maintaining scalable web applications, I bring a balanced approach to software development that prioritizes performance, user experience, and maintainability. My technical proficiency spans HTML, CSS, JavaScript, React, and backend technologies, enabling me to develop end-to-end solutions for a wide range of applications. In addition to technical skills, I am passionate about continuous learning and contributing to the developer community. A former Andela intern, I now collaborates within the developer ecosystem, offering mentorship and insight to emerging developers. Known for a proactive problem-solving mindset, I am always ready to adapt to new challenges and contribute effectively in remote and collaborative settings.
+I am a dedicated and versatile software developer with front-end and back-end development expertise. I specialize in the MERN stack (MongoDB, Express, React, and Node.js). With a background in building and maintaining scalable web applications, I bring a balanced approach to software development that prioritizes performance, user experience, and maintainability.
+
+My technical proficiency spans HTML, CSS, JavaScript, React, and backend technologies, enabling me to develop end-to-end solutions for various applications. In addition to technical skills, I am passionate about continuous learning and contributing to the developer community. A former Andela intern, I now collaborate within the developer ecosystem, offering mentorship and insight to emerging developers. Known for a proactive problem-solving mindset, I am always ready to adapt to new challenges and contribute effectively in remote and collaborative settings.
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [My Portfolio](http://lbdportfolio.netlify.app/)
 * ✉️  You can contact me at [boluwatifelambe@gmail.com](mailto:boluwatifelambe@gmail.com)
 * 🚀  I'm currently working on [Eventful](http://eventful-frontend.vercel.app/)
 * 🧠  I'm learning Tailwind CSS
-* 🤝  I'm open to collaborating on Frontend projects, open source projects, and tech conferences
-* ⚡  My favorite hobby is watching tv shows
+* 🤝  I'm open to collaborating on Frontend projects, open-source projects, and tech conferences
+* ⚡  My favorite hobby is watching TV shows
 
 <a href="https://www.github.com/lambeboluwatife" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/lambeboluwatife?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Danibholie" target="_blank" rel="noreferrer"><img
