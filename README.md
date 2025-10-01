@@ -32,11 +32,13 @@ I believe in **learning by building**—from scalable full-stack apps to experim
 A Netflix-inspired streaming platform with authentication, MongoDB backend, and responsive UI.
 
 <p align="left"> <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> </p> 🔗 [View Repo](https://github.com/lambeboluwatife/lbdflix)
+
 🎟️ Eventful
 
 A full-stack event management app with CRUD, authentication, reminders & attendee engagement.
 
 <p align="left"> <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white" /> </p> 🔗 [Live Demo](http://eventful-frontend.vercel.app/)
+
 🎮 GKAI Game
 
 A multiplayer logical guessing game with “Killed & Injured” mechanics, built on MERN with real-time feedback.
