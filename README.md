@@ -60,3 +60,5 @@ src="https://img.shields.io/twitter/follow/Danibholie?logo=twitter&style=for-the
 </ul>
 
 <a href="https://app.daily.dev/danibholie"><img src="https://api.daily.dev/devcards/v2/pfaYnt9P1q03B1r6yp4FS.png?type=default&r=etm" width="356" alt="Boluwatife Lambe's Dev Card"/></a>
+
+[![An image of @lambeboluwatife's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lambeboluwatife)](https://holopin.io/@lambeboluwatife)
