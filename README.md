@@ -1,64 +1,95 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Boluwatife Lambe
-========================================================================================================================================
+# Hi there, I'm Boluwatife Lambe 👋  
 
-Software Engineer (Fullstack Development)
--------------------------
+🚀 **Frontend & AI Agent Developer** | 🌍 Lagos, Nigeria  
 
-I am a dedicated and versatile software developer with front-end and back-end development expertise. I specialize in the MERN stack (MongoDB, Express, React, and Node.js). With a background in building and maintaining scalable web applications, I bring a balanced approach to software development that prioritizes performance, user experience, and maintainability.
+I’m passionate about building **beautiful web experiences** and **AI-powered agents** that make life easier for people and businesses.  
+I work with **Next.js, TypeScript, TailwindCSS, Node.js, and agentic frameworks**, blending **frontend engineering** with **automation and intelligence**.  
 
-My technical proficiency spans HTML, CSS, JavaScript, React, and backend technologies, enabling me to develop end-to-end solutions for various applications. In addition to technical skills, I am passionate about continuous learning and contributing to the developer community. A former Andela intern, I now collaborate within the developer ecosystem, offering mentorship and insight to emerging developers. Known for a proactive problem-solving mindset, I am always ready to adapt to new challenges and contribute effectively in remote and collaborative settings.
+I believe in **learning by building**—from scalable full-stack apps to experimental AI projects. Always exploring new ideas, sharing knowledge, and contributing to the dev community.  
 
-* 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [My Portfolio](http://lbdportfolio.netlify.app/)
-* ✉️  You can contact me at [boluwatifelambe@gmail.com](mailto:boluwatifelambe@gmail.com)
-* 🚀  I'm currently working on [Eventful](http://eventful-frontend.vercel.app/)
-* 🧠  I'm learning Tailwind CSS
-* 🤝  I'm open to collaborating on Frontend projects, open-source projects, and tech conferences
-* ⚡  My favorite hobby is watching TV shows
+---
 
-<a href="https://www.github.com/lambeboluwatife" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/lambeboluwatife?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Danibholie" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Danibholie?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+### 🌟 What I Do
+- 🖥️ Craft **responsive, accessible, and modern UIs** with Next.js + Tailwind  
+- 🤖 Build **AI agents** that automate workflows and solve real-world problems  
+- ⚡ Experiment with **automation, LLMs, and edge deployments**  
+- 🌍 Collaborate on **open-source and global projects**  
 
-### Skills
+---
 
+### 📌 Currently Learning & Building
+- 🔹 **AI Agent Frameworks** (Mastra, LangChain, custom orchestration)  
+- 🔹 **Cloud & Edge Deployments** (Vercel, Netlify, serverless functions)  
+- 🔹 **Better DX** with TypeScript everywhere  
+- 🔹 **Eventful** → my ongoing project that curates and manages events with ticketing + attendee engagement  
+- 🔹 **GKAI** → a logical multiplayer game with “Killed & Injured” mechanics, full-stack with MongoDB  
+
+---
+
+### 🚀 Featured Projects  
+
+- 🎬 **LBDFlix** – A Netflix-inspired movie platform built with Next.js + MongoDB  
+  🔗 [View Repo](https://github.com/lambeboluwatife/lbdflix)  
+
+- 🎟️ **Eventful** – A full-stack event platform with CRUD, authentication, and reminders  
+  🔗 [Live Demo](http://eventful-frontend.vercel.app/)  
+
+- 🎮 **GKAI Game** – A two-player guessing game built with MERN + real-time feedback system  
+  🔗 [View Repo](https://github.com/lambeboluwatife)  
+
+---
+
+### 🛠 Tech Stack  
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-</p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" /></a>
+<a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
+<a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+</p>  
 
+---
 
-### Socials
+### 📊 GitHub Stats  
 
-<p align="left"> <a href="https://www.dev.to/lambeboluwatife" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/lambeboluwatife" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://@Danibholie.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/danibholie" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/boluwatife-lambe-87b0b6136" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@boluwatifelambe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Danibholie" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@LBDmedia" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+<a href="http://www.github.com/lambeboluwatife"><img src="https://github-readme-stats.vercel.app/api?username=lambeboluwatife&show_icons=true&count_private=true&title_color=00e7ff&text_color=ffffff&icon_color=00e7ff&bg_color=0a0a0a&hide_border=true" /></a>  
 
-### Badges
+<a href="http://www.github.com/lambeboluwatife"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lambeboluwatife&stroke=ffffff&background=0a0a0a&ring=00e7ff&fire=00e7ff&currStreakNum=ffffff&currStreakLabel=00e7ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>  
 
-<b>My GitHub Stats</b>
+<a href="http://www.github.com/lambeboluwatife"><img src="https://github-readme-activity-graph.vercel.app/graph?username=lambeboluwatife&bg_color=0a0a0a&color=ffffff&line=00e7ff&point=ffffff&area_color=0a0a0a&area=true&hide_border=true" alt="GitHub Commits Graph" /></a>  
 
-<a href="http://www.github.com/lambeboluwatife"><img src="https://github-readme-stats.vercel.app/api?username=lambeboluwatife&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lambeboluwatife's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/lambeboluwatife"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lambeboluwatife&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 🔗 Connect with Me  
 
-<a href="http://www.github.com/lambeboluwatife"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=lambeboluwatife&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<p align="left">
+<a href="https://x.com/Danibholie"><img src="https://img.shields.io/twitter/follow/Danibholie?logo=twitter&style=for-the-badge&color=00e7ff&labelColor=0a0a0a" /></a>  
+<a href="https://www.linkedin.com/in/boluwatife-lambe-87b0b6136/"><img src="https://img.shields.io/badge/LinkedIn-Boluwatife%20Lambe-00e7ff?style=for-the-badge&logo=linkedin&labelColor=0a0a0a" /></a>  
+<a href="mailto:boluwatifelambe@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-00e7ff?style=for-the-badge&logo=gmail&labelColor=0a0a0a" /></a>  
+<a href="http://lbdportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-LBD%20Portfolio-00e7ff?style=for-the-badge&logo=vercel&labelColor=0a0a0a" /></a>
+</p>  
 
-<a href="https://github.com/lambeboluwatife" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lambeboluwatife&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-<b>Top Repositories</b>
+### 🏆 Badges  
 
-<div width="100%" align="center"><a href="https://github.com/lambeboluwatife/lbdflix" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lambeboluwatife&repo=lbdflix&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+[![Holopin badges](https://holopin.me/lambeboluwatife)](https://holopin.io/@lambeboluwatife)  
 
-### Support Me
+---
 
-<ul style="list-style-type: none; margin: 0;">
+### ☕ Support My Work  
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/L.B.D"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<p>
+<a href="https://www.buymeacoffee.com/L.B.D"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+<a href="https://ko-fi.com/boluwatifelambe"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
+</p>  
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/boluwatifelambe"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+---
 
-</ul>
-
-<a href="https://app.daily.dev/danibholie"><img src="https://api.daily.dev/devcards/v2/pfaYnt9P1q03B1r6yp4FS.png?type=default&r=etm" width="356" alt="Boluwatife Lambe's Dev Card"/></a>
-
-[![An image of @lambeboluwatife's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lambeboluwatife)](https://holopin.io/@lambeboluwatife)
+💡 *Always learning. Always building.*  
+🎮 When I’m not coding: I’m gaming, writing songs, or watching movies/series.  
