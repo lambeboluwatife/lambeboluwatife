@@ -27,31 +27,33 @@ I believe in **learning by building**—from scalable full-stack apps to experim
 ---
 
 ### 🚀 Featured Projects  
+🎬 LBDFlix
 
-- 🎬 **LBDFlix** – A Netflix-inspired movie platform built with Next.js + MongoDB  
-  🔗 [View Repo](https://github.com/lambeboluwatife/lbdflix)  
+A Netflix-inspired streaming platform with authentication, MongoDB backend, and responsive UI.
 
-- 🎟️ **Eventful** – A full-stack event platform with CRUD, authentication, and reminders  
-  🔗 [Live Demo](http://eventful-frontend.vercel.app/)  
+<p align="left"> <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> </p> 🔗 [View Repo](https://github.com/lambeboluwatife/lbdflix)
+🎟️ Eventful
 
-- 🎮 **GKAI Game** – A two-player guessing game built with MERN + real-time feedback system  
-  🔗 [View Repo](https://github.com/lambeboluwatife)  
+A full-stack event management app with CRUD, authentication, reminders & attendee engagement.
+
+<p align="left"> <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white" /> </p> 🔗 [Live Demo](http://eventful-frontend.vercel.app/)
+🎮 GKAI Game
+
+A multiplayer logical guessing game with “Killed & Injured” mechanics, built on MERN with real-time feedback.
+
+<p align="left"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white" /> </p> 🔗 [View Repo](https://github.com/lambeboluwatife)
 
 ---
 
-### 🛠 Tech Stack  
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" /></a>
-<a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
-<a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-</p>  
+### 🛠️ Tech Stack
+🎨 Frontend
+<p align="left"> <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" /></a> <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a> </p>
+⚙️ Backend
+<p align="left"> <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a> <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a> <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> </p>
+🤖 AI / ML Stack
+<p align="left"> <a href="https://mastra.ai/"><img src="https://img.shields.io/badge/Mastra-AI-blueviolet?style=for-the-badge&logo=ai&logoColor=white" /></a> <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-LLM-orange?style=for-the-badge&logo=openai&logoColor=white" /></a> <a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-Agents-412991?style=for-the-badge&logo=openai&logoColor=white" /></a> <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=for-the-badge&logo=huggingface&logoColor=black" /></a> <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Edge%20Deployments-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" /></a> </p>
+🛠 Tools & Workflow
+<p align="left"> <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a> <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-Deployments-black?style=for-the-badge&logo=vercel&logoColor=white" /></a> <a href="https://www.netlify.com/"><img src="https://img.shields.io/badge/Netlify-Deployments-teal?style=for-the-badge&logo=netlify&logoColor=white" /></a> </p>
 
 ---
 
