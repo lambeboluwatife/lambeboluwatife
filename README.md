@@ -51,8 +51,6 @@ I believe in **learning by building**—from scalable full-stack apps to experim
 <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=fff)  
-![Mastra](https://img.shields.io/badge/Mastra_AI-111?style=for-the-badge&logo=spark&logoColor=fff) 
 </p>  
 
 ---
@@ -65,6 +63,8 @@ I believe in **learning by building**—from scalable full-stack apps to experim
 
 <a href="http://www.github.com/lambeboluwatife"><img src="https://github-readme-activity-graph.vercel.app/graph?username=lambeboluwatife&bg_color=0a0a0a&color=ffffff&line=00e7ff&point=ffffff&area_color=0a0a0a&area=true&hide_border=true" alt="GitHub Commits Graph" /></a>  
 
+<a href="http://www.github.com/lambeboluwatife"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lambeboluwatife&layout=compact&theme=radical&bg_color=0a0a0a&color=ffffff&line=00e7ff&point=ffffff&area_color=0a0a0a&area=true&hide_border=true" alt="GitHub Top Languages" /></a>  
+
 ---
 
 ### 🔗 Connect with Me  
@@ -73,8 +73,9 @@ I believe in **learning by building**—from scalable full-stack apps to experim
 <a href="https://x.com/Danibholie"><img src="https://img.shields.io/twitter/follow/Danibholie?logo=twitter&style=for-the-badge&color=00e7ff&labelColor=0a0a0a" /></a>  
 <a href="https://www.linkedin.com/in/boluwatife-lambe-87b0b6136/"><img src="https://img.shields.io/badge/LinkedIn-Boluwatife%20Lambe-00e7ff?style=for-the-badge&logo=linkedin&labelColor=0a0a0a" /></a>  
 <a href="mailto:boluwatifelambe@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-00e7ff?style=for-the-badge&logo=gmail&labelColor=0a0a0a" /></a>  
-<a href="http://lbdportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-LBD%20Portfolio-00e7ff?style=for-the-badge&logo=vercel&labelColor=0a0a0a" /></a>
+<a href="http://lambeboluwatife.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-LBD%20Portfolio-00e7ff?style=for-the-badge&logo=vercel&labelColor=0a0a0a" /></a>
 </p>  
+
 
 ---
 
