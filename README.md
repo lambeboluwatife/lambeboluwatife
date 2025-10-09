@@ -5,7 +5,7 @@
 I’m passionate about building **beautiful web experiences** and **AI-powered agents** that make life easier for people and businesses.  
 I work with **Next.js, TypeScript, TailwindCSS, Node.js, and agentic frameworks**, blending **frontend engineering** with **automation and intelligence**.  
 
-I believe in **learning by building**—from scalable full-stack apps to experimental AI projects. Always exploring new ideas, sharing knowledge, and contributing to the dev community.  
+I believe in **learning by building**, from scalable full-stack apps to experimental AI projects. Always exploring new ideas, sharing knowledge, and contributing to the dev community.  
 
 ---
 
