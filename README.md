@@ -18,6 +18,7 @@ A full-stack web application for creating, managing, and discovering events.
 - Designed for scalability and real-world usage  
 
 🔗 Live Demo: http://eventful-frontend.vercel.app/  
+
 🔗 GitHub: https://github.com/lambeboluwatife  
 
 ---
@@ -30,6 +31,7 @@ A 2-player game where users guess numbers with real-time feedback (“Killed & I
 - Focus on game logic and backend validation  
 
 🔗 Live Demo: https://gkai-svelte-kit.vercel.app/
+
 🔗 GitHub: https://github.com/lambeboluwatife/GKAI-SvelteKit 
 
 ---
@@ -41,18 +43,22 @@ A Netflix-inspired web app with authentication and responsive UI.
 - Clean UI/UX and reusable components  
 
 🔗 Live Demo: https://lbdflix-movies.vercel.app/
+
 🔗 GitHub: https://github.com/lambeboluwatife/lbdflix  
 
 ---
 
-### 📊 ClientPulse — Client Relationship Management Dashboard  
-A modern CRM-style web application for tracking client interactions, managing relationships, and improving business communication workflows.
+### 📊 CClientPulse — Freelancer Client Update Tool 
+A focused client communication tool that eliminates the "any updates?" message.
+Built for freelancers who want to share project progress through a single link
+instead of repeating themselves over WhatsApp, email, and voice notes.
 
-- Built with Next.js and Supabase
-- Features client tracking, interaction history, and organized dashboard views  
-- Focused on clean UI/UX, scalability, and real-world business use cases  
+- Built with **Next.js**, **TypeScript**, **Tailwind CSS**, and **Supabase**
+- Features project timelines, status tracking, and zero-friction public client pages
+- Focused on **simplicity**, **auth security**, and a client experience that requires no login  
 
 🔗 Live Demo: https://clientpulse-jet.vercel.app/
+
 🔗 GitHub: https://github.com/lambeboluwatife/clientpulse
 
 ---
@@ -67,8 +73,9 @@ A modern CRM-style web application for tracking client interactions, managing re
 ---
 
 ## 📌 Currently Building  
-- Eventful (expanding features & scalability)  
-- AI-powered tools and automation workflows  
+- GKAI (expanding features & scalability)  
+- AI-powered tools and automation workflows
+- LBDFlix (expanding features & scalability)  
 
 ---
 
